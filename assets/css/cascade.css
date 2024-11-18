@@ -1,0 +1,64 @@
+body{
+    background-image: url;
+}
+.hellow{
+    max-width: 100%;
+    max-height: 100%;
+}
+.navbar-nav{
+    float: left;
+}
+.navbar-nav{
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+}
+a{
+    size: 10px;
+    text-decoration: none;
+}
+button:hover{
+    background-color: pink;
+}
+button{
+    /*background-image: url('back.jpg');*/
+    background-color: aqua;
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    background-size: cover;
+    border-style: none;
+    border-radius: 5px;
+}
+.contact{
+    background-color: aqua;
+    color: blue;
+    width: fit-content;
+    height: fit-content;
+}
+ul{
+    font-size: 30px;
+    background-color: aqua;
+}
+.house{
+    border-radius: 5px;
+    background-color: aqua;
+    background-size: 30px;
+    width: fit-content;
+    height: fit-content;
+}
+/*div{
+    display: flex;
+}
+iframe{
+    /*height: 1000px;
+    width: 1000px;
+    float:left;
+}
+a{
+    /*text-decoration: none;
+    color: aqua;
+}
+#houses{
+   display: flex; 
+}
